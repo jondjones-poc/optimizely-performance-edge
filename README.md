@@ -6,7 +6,8 @@ This project makes uses of:
 
 ## Live Site URL & Status 👺
 
-[https://optimizely-performance-edge.netlify.app]https://optimizely-performance-edge.netlify.app)
+- [Website](https://optimizely-performance-edge.netlify.app)
+- [Github](https://github.com/jondjones-poc/optimizely-performance-edge)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8290e93b-8188-43b8-8bb1-8f5417f5f382/deploy-status)](https://app.netlify.com/sites/optimizely-performance-edge/deploys)
 
