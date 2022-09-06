@@ -1,8 +1,6 @@
 # Optimizely Web - Performance Edge - By Jon D Jones 💥
 
-This project makes uses of:
-
-- Optimizely Performance Edge
+This project shows how to implement Optimizely Performance Edge using HTML, CSS and Javascript.
 
 ## Live Site URL & Status 👺
 
